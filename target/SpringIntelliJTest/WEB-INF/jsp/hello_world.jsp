@@ -12,5 +12,6 @@
 </head>
 <body>
 <h2>${message}</h2>
+<h2>click me ! <a href="showForm">hehe :-)</a></h2>
 </body>
 </html>
